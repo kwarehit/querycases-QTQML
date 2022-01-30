@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/QueryTextView.qml</file>
+        <file>qml/LogTextView.qml</file>
+        <file>qml/ResultViewDelegate.qml</file>
+        <file>qml/ResultView.qml</file>
+        <file>qml/ResultViewSectionDelegate.qml</file>
+        <file>qml/ResultTable.qml</file>
+        <file>qml/MenuView.qml</file>
+    </qresource>
+</RCC>
